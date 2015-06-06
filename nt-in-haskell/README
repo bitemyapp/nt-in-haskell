@@ -1,0 +1,49 @@
+Natural Transformations in Haskell workshop
+
+I'm assuming you've followed all the instructions on
+https://gitorious.org/nt-in-haskell/pages/Quickstart .
+
+If you're following the materials for independent study: the files in
+src/NT/ are meant to be read in order, though you may skip E.hs if it
+doesn't sound interesting.  These files, though they compile with GHC,
+consist of many explanatory comments, exercises, and a bit of code.
+
+Some, but not all, exercises involve filling in parts of the existing
+code.  You get warnings from the compiler until you do so.  Typically,
+when the code compiles without type errors/warnings, you have solved
+the exercise.
+
+Exercises are in comments, and look like this:
+
+    Exercise R1: Find Exercise A1 in src/NT/A.hs.
+
+Answers to the exercises are primarily in a bzr branch descended from
+this one, mirrored to git.
+
+bzr: lp:nt-in-haskell/answers
+git: https://gitorious.org/nt-in-haskell/answers.git
+
+Contributions are welcome via bzr, under this project's license, the
+AGPLv3, a copy of which is included in LICENSE.  The main project page
+is https://launchpad.net/nt-in-haskell .
+
+For further assistance, contact me, S11001001, on irc.freenode.net
+channel #compose, or ask a question at
+https://answers.launchpad.net/nt-in-haskell .
+
+----------------------------------------------------------------------
+
+Copyright (C) 2015  Stephen Compall
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
